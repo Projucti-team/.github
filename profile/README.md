@@ -1,6 +1,6 @@
 # Projucti Team
 
-![Projucti Tech Logo](https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-6/330589207_1917435851760165_3022610574655081814_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGq__9YADZ7ZOhv4GPg_EyH4jAinccuM9ziMCKdxy4z3KGrlANXEPSGpq9Y26ayFFUYiGGDq1NQ--8F2RIMaO6D&_nc_ohc=Yc6_MCFyul0AX8LwIe9&_nc_zt=23&_nc_ht=scontent.fcgp1-1.fna&oh=00_AfBFBywsfiX1AMyYgkPgOrBXzA-chhuYgAG_VFwTJUKQ9A&oe=64C2EA7F)
+![Projucti Tech Logo](https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/298617652_437567741729574_6206929042026765245_n.png?stp=dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeHBlIQBW0UtIRCfRQj38X96BeirUCM9UsUF6KtQIz1SxdPpRXUMOKiHNcwmaJ9T2i2peZS2pU7sjz96eP7I8PW3&_nc_ohc=9R6crCHeXi0AX9bqqcC&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&oh=00_AfCb-yh9E0eGyWFpK7aJIsNvS1joZqzAuCZUSU3-8mKhjw&oe=64C34B17)
 
 Welcome to Projucti Tech! We are a cutting-edge software development startup founded in 2020 with a passion for technology and innovation. Our mission is to create robust, scalable, and user-centric solutions that empower businesses and individuals to thrive in the digital world.
 
